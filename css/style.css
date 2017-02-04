@@ -1,0 +1,64 @@
+html{
+    background: url('../img/bg.png');
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Arsenal', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 3.7em;
+    font-weight: 400;
+}
+
+a{
+    font-family: 'Catamaran', sans-serif;
+    color: #FFF;
+}
+
+p{
+    font-family: 'Arsenal', sans-serif;
+}
+
+.toLeft{
+    width: 45%;
+    min-width: 400px;
+    float: left;
+    text-align: right;
+    padding-top: 100px;
+    font-size: 2em;
+    color: #FFF;
+    text-shadow: 0 2px 4px #0062CC;
+}
+
+.iphone{
+    float:right;
+    margin-right: 10%;
+    margin-top: -40px;
+}
+
+.botones{
+    margin-top: 100px;
+}
+
+.android-boton{
+    margin-right: 30px;
+}
+
+.ios-boton{
+    margin-left: 30px;
+}
+
+.wa-img{
+    margin-bottom: -25px;
+}
+
+.fb-img{
+    margin-bottom: -25px;
+    margin-left: 30px;
+}
+
+.botones-2{
+    margin-top: 50px;
+    margin-right: 80px;
+}
